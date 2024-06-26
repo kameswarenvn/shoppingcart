@@ -1,0 +1,10 @@
+.added-cart{
+   display: flex;
+   flex-direction: row;
+}
+.cart-pic{
+    height: 250px;
+    width: 250px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
